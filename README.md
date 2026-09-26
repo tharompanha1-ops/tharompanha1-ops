@@ -3,9 +3,6 @@
 <img src="./profile-scan.svg" width="500%" alt="Profile scan" />
 
 <br><br>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=4DE8D4&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Web+Developer;Learning+HTML%2C+CSS%2C+JS+%26+Python;Building+useful+digital+projects)
-
 [![Email](https://img.shields.io/badge/Email-tharompanha1@gmail.com-0a0f14?style=for-the-badge&logo=gmail&logoColor=4DE8D4)](mailto:tharompanha1@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B855%2070%20479%20381-0a0f14?style=for-the-badge&logo=whatsapp&logoColor=4DE8D4)](tel:+85570479381)
 [![GitHub](https://img.shields.io/badge/GitHub-tharompanha1--ops-0a0f14?style=for-the-badge&logo=github&logoColor=4DE8D4)](https://github.com/tharompanha1-ops)
