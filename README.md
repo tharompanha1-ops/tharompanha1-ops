@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-scan.svg" width="100%" alt="Profile scan" />
+<img src="./profile-scan.svg" width="100%" alt="Profile scan" />
 
 <br><br>
 
