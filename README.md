@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Cambodia.svg" width="500%" alt="Profile scan" />
+<img src="./Cambodia.svg" width="100%" high="80%" alt="Profile scan" />
 
 <br><br>
 [![Email](https://img.shields.io/badge/Email-tharompanha1@gmail.com-0a0f14?style=for-the-badge&logo=gmail&logoColor=4DE8D4)](mailto:tharompanha1@gmail.com)
